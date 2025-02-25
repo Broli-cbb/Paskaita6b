@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yuFxh7wnA4k=",
+  "success": true,
+  "projectFilePath": "/Users/a/Desktop/Kursai/Paskaita6b/Paskaita6b.csproj",
+  "expectedPackageFiles": [
+    "/Users/a/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/a/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
